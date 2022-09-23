@@ -1,0 +1,45 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif
+    background-color #E5E5E5;
+}
+h1{
+    
+font-size: 30px;
+
+text-align: center;
+
+color: #545454;
+
+}
+h2{
+
+font-size: 40px;    
+
+text-align: center;
+
+color: #1F9440;
+
+}
+p{
+ margin-left: 42px; 
+font-size: 20px;
+color: black;
+}
+button{
+    position: absolute;
+width: 270px;
+height: 62px;
+left: 53px;
+top: 514px;
+
+background: #1F9440;
+border-radius: 50px;
+border: none;
+}
+input{
+    background-color: #E5E5E5;
+    border: 0;
+    width: 292;
+    height: 34;
+}
